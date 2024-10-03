@@ -423,7 +423,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   lineRenderer: {fileID: 5572983977929309387}
-  maxForce: 15
+  maxForce: 50
   areaAffector: {fileID: 2586946977670524658}
   rayLayer:
     serializedVersion: 2
